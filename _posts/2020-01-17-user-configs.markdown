@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Atomで書いてコミットしたいんだが・・・"
+title:  "Atomで書いてpushしたいんだが・・・"
 date:   2020-01-17 13:00:00 +0900
-excerpt: "ブログのテキストはGitHubの公認（？）エディタであるAtomで書いてステージし，コミットしてフェッチしてるのだけれども・・・"
+excerpt: "ブログのテキストはGitHubの公認（？）エディタであるAtomで書いてpushしてるのだけれども・・・"
 categories: [General]
 tag: [technical]
 comments: true
@@ -12,7 +12,7 @@ comments: true
 Windowsと共有するためのテキストファイルを準備しなければならないときには[**mi（ミミカキエディター）**][mi]{:target="_blank"}を使っていた．  
 
 ブログ用のテキストは**markdown**で書くわけなので，[**Ulysses**][ul]{:target="_blank"}を使えばいいのだけれど，  
-書いたらそのままアップロードできたほうが便利なことは明白で，
+書いたらそのままアップロード（プッシュというらしい）できたほうが便利なことは明白で，
 [**GitHub**][gh]{:target="_blank"}との相性から，今では[**Atom**][am]{:target="_blank"}も使ってる．  
 
 ほんとうはファイリングの概念から脱却していてかなり使い勝手がいいと感じている[**Ulysses**][ul]{:target="_blank"}で，  
