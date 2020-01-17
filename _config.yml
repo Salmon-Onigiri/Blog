@@ -44,7 +44,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-134838366-4
     verify:
     ad-client:
     ad-slot:
