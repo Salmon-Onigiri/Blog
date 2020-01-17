@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atomで書いてpushしたいんだが・・・"
+title:  "Atomで書いてpushしているのだが・・・"
 date:   2020-01-17 13:00:00 +0900
 excerpt: "ブログのテキストはGitHubの公認（？）エディタであるAtomで書いてpushしてるのだけれども・・・"
 categories: [General]
