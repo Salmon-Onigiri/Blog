@@ -7,7 +7,7 @@ categories: [General]
 tag: [technical]
 comments: true
 ---
-##AtomでGitHubにpushできなかった時のメモ
+## AtomでGitHubにpushできなかった時のメモ
 
 この**ブログ**は[**GitHub**][gh]{:target="_blank_"}の公認エディタ的な位置づけの[**Atom**][am]{:target="_blank"_}で書いている．  
 当然のことながら[**Atom**][am]{:target="_blank"_}と[**GitHub**][gh]{:target="_blank_"}の**親和性**は高く，  
