@@ -1,13 +1,25 @@
 【リンク】
 {:target="_blank_"}
-[**Ulysses**]
-[ul]: https://ulysses.app
-[**mi（ミミカキエディター）**]
-[mi]: https://www.mimikaki.net
+[**Amazon**]
+[amz]: https://amzn.to/35YZ31K
 [**Atom**]
-[am]: https://atom.io
+[atm]: https://atom.io
 [**GitHub**]
 [gh]: https://github.com
+[**GitHub Pages**]
+[gp]: https://pages.github.com
+[**jekyll**]
+[jl]: http://jekyllrb-ja.github.io
+[**mi（ミミカキエディター）**]
+[mi]: https://www.mimikaki.net
+[**Ulysses**]
+[ul]: https://ulysses.app
+[**ワードプレス（WordPress）**]
+[wp]: https://ja.wordpress.org
+[**XFREE**]
+[xf]: https://www.xfree.ne.jp
+
+
 
 【カテゴリー】
 [General]
