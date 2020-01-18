@@ -7,13 +7,13 @@ categories: [General]
 tag: [technical]
 comments: true
 ---
-## AtomでGitHubにpushできなかった時のメモ
+### AtomでGitHubにpushできなかった時のメモ
 
 この**ブログ**は[**GitHub**][gh]{:target="_blank_"}の公認エディタ的な位置づけの[**Atom**][am]{:target="_blank"_}で書いている．  
 当然のことながら[**Atom**][am]{:target="_blank"_}と[**GitHub**][gh]{:target="_blank_"}の**親和性**は高く，  
 [**Atom**][am]{:target="_blank"_}でテキストを書いてしまえば，そのままstageして**push**できる・・・はずだった．  
 
-### ところが・・・
+#### ところが・・・
 
 某所で使っている**マシンA**（仮名）では，  
 [**Atom**][am]{:target="_blank"_}を使ってテキストを書いてそのままstageして**push**すると，  
@@ -34,7 +34,7 @@ comments: true
 **キーワード**の選び方が悪いのか，  
 **コレだ**という答えに出会えない．  
 
-### 何だ，ナンだ，何なんだ・・・  
+#### 何だ，ナンだ，何なんだ・・・  
 
 しょうがないな・・・  
 せっかくテキストを書いたんだし，  
@@ -48,7 +48,7 @@ comments: true
 ふたたび[**Atom**][am]{:target="_blank"_}で少しテキストをいじって，  
 再度，[**Atom**][am]{:target="_blank"_}から**push**してみると，  
 
-### VOILA!
+#### VOILA!
 
 あっさり**push**できてしまいました．  
 つまるところ，**マシンA**（仮称）では，  
