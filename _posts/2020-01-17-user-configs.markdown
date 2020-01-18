@@ -7,6 +7,8 @@ categories: [General]
 tag: [technical]
 comments: true
 ---
+### GitHub Pagesのためのエディタを選んだ時のメモ
+
 今のところいくつかの**エディタ**を使い分けている．  
 仕事の都合上，**Mac**がメインのマシンなので，仕事でテキストを扱う時には[**Ulysses**][ul]{:target="_blank"}を使い，  
 Windowsと共有するためのテキストファイルを準備しなければならないときには[**mi（ミミカキエディター）**][mi]{:target="_blank"}を使っていた．  
