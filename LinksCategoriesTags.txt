@@ -1,0 +1,28 @@
+【リンク】
+{:target="_blank_"}
+[**Amazon**]
+[amz]: https://amzn.to/35YZ31K
+[**Atom**]
+[atm]: https://atom.io
+[**GitHub**]
+[gh]: https://github.com
+[**GitHub Pages**]
+[gp]: https://pages.github.com
+[**jekyll**]
+[jl]: http://jekyllrb-ja.github.io
+[**mi（ミミカキエディター）**]
+[mi]: https://www.mimikaki.net
+[**Ulysses**]
+[ul]: https://ulysses.app
+[**ワードプレス（WordPress）**]
+[wp]: https://ja.wordpress.org
+[**XFREE**]
+[xf]: https://www.xfree.ne.jp
+
+
+
+【カテゴリー】
+[General]
+
+【タグ】
+[technical]
