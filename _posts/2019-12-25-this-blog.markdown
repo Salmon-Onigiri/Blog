@@ -7,7 +7,7 @@ categories: [General]
 tag: [technical]
 comments: true
 ---
-### このブログは[**jekyll**][jl]{:target="_blank"}を使って生成して[**XFREE**][xf]{:target="_blank"}にアップして公開していたのだが
+### このブログは[**jekyll**][jl]{:target="_blank"}を使って生成して[**XFREE**][xf]{:target="_blank"}にアップして公開していた
 
 駄文を書きためるブログでもつくるかと思い立ち，有名どころの[**ワードプレス（WordPress）**][wp]{:target="_blank"}でやってみるかと少し試してみたけれど，  
 いちいちアカウントにログインして，いちいち記事をつくってという作業が，なかなか面倒くさい．  
