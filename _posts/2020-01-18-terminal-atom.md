@@ -3,7 +3,7 @@ layout: post
 title:  "Atomでpushするためにはターミナルをいじれないとダメらしい"
 date:   2020-01-18 13:00:00 +0900
 excerpt: "このブログはAtomで書いてpushしているのだが，最初にpushするまえにしなければならなかったことは・・・"
-categories: [General]
+categories: [GitHubPages]
 tag: [technical]
 comments: true
 ---

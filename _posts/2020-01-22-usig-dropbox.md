@@ -1,13 +1,17 @@
 ---
 layout: post
 title:  "僕はあっさり浮気をした"
-date:   2020-01-21 11:00:00 +0900
-excerpt: "もともとこのブログはAtomで書いていたのだが，あっさりVisual Studio Codeに心移りをしてしまった・・・"
-categories: [GitHubPages]
+date:   2020-01-22 11:00:00 +0900
+excerpt: "GitHub PagesのためのフォルダをDropboxに置いたことで更新も楽ちんになった・・・"
+categories: [General]
 tag: [technical]
 comments: true
 ---
-### AtomからVisual Studio Codeに心移りした時のメモ
+### GitHub PagesのためのフォルダをDropboxに置いたら楽だった
+
+プログラミングの「プ」の字も知らない素人がGitHub Pagesを使って公開しているこのブログ，  
+公開に至るまでには実にいろいろな人のブログやサイトを参考に試行錯誤を繰り返してきた．
+
 
 もともとこの**ブログ**は[**GitHub**][gh]{:target="_blank"}の公認エディタ的な位置づけの[**Atom**][am]{:target="_blank"}で書いていた．  
 普通に使っている分には[**Atom**][am]{:target="_blank"}と[**GitHub**][gh]{:target="_blank"}の**親和性**は高く，  
@@ -19,14 +23,14 @@ comments: true
 それは，リンク先をブラウザで新しいタブで開いてもらうために，  
 リンク先の記述の後に`{:target="_blank"}`を書いたときのことだった．  
 [**Atom**][am]{:target="_blank"}はご丁寧にこの`「 _ 」`を斜体の指定と判断して，  
-それ以降のテキストがすべて，<span style="color: #42b983;">**色付きの斜体**</span>で表示されてしまう．
+それ以降のテキストがすべて，<span style="color: #009900;">**色付きの斜体**</span>で表示されてしまう．
 
 #### うっ，気持ち悪っ
 
 そこでふと思い出して，  
 前に少し使ったことがある[**Visual Studio Code**][vs]{:target="_blank"}で開いてみると・・・  
 何の問題もなく意図の通りに表示されてる．  
-しかも，ターミナルの画面を<span style="color: #42b983;">**同時に表示**</span>することもできる．  
+しかも，ターミナルの画面を<span style="color: #009900;">**同時に表示**</span>することもできる．  
 
 [**Atom**][am]{:target="_blank"}では追加のパッケージをインストールすることで**ターミナル**を表示できるようになるらしいけど，  
 元から表示できてくれれば**便利**なことこの上ない．  

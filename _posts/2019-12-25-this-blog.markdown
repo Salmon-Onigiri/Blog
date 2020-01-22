@@ -3,7 +3,7 @@ layout: post
 title:  "このブログはjekyllで生成しているのだが・・・"
 date:   2019-12-25 13:00:00 +0900
 excerpt: "jekyllで生成して無料サーバーXFREEで公開していたけれど，最終的にはGitHub Pagesに移行したこのブログの成り立ちを簡単に"
-categories: [General]
+categories: [GitHubPages]
 tag: [technical]
 comments: true
 ---
