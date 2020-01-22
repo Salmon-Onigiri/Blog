@@ -20,7 +20,7 @@ comments: true
 #### へぇ・・・こんなふうにできるわけか．
 
 最初はそれで**関心していた**のだが，  
-<span style="color: #8d7edc;">**別のマシン**</span>からアクセスしようとしてハタと困ったことに気がついた．
+<span class="$secondary"><strong>別のマシン</strong></span>からアクセスしようとしてハタと困ったことに気がついた．
 
 <span class="$secondary">最初のマシン</span>でつくった[**GitHub Pages**][gp]{:target="_blank"}のフォルダにアクセスるには・・・どうすりゃいいんだ？
 
