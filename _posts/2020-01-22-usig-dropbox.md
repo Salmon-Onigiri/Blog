@@ -3,44 +3,46 @@ layout: post
 title:  "DropboxはGitHub Pagesにも便利だった"
 date:   2020-01-22 11:00:00 +0900
 excerpt: "GitHub PagesのためのフォルダをDropboxに置いたことで更新も楽ちんになった・・・"
-categories: [General]
+categories: [GitHubPages]
 tag: [technical]
 comments: true
 ---
 ### GitHub PagesのためのフォルダをDropboxに置いたら楽だった
 
-プログラミングの「プ」の字も知らない素人がGitHub Pagesを使って公開しているこのブログ，  
-公開に至るまでには実にいろいろな人のブログやサイトを参考に試行錯誤を繰り返してきた．
+**プログラミング**の「プ」の字も知らない素人が[**GitHub Pages**][gp]{:target="_blank"}を使って公開しているこのブログ，  
+公開に至るまでには，実にいろいろな人のブログやサイトを参考に**試行錯誤**を繰り返してきた．
 
+[**GitHub Pages**][gp]{:target="_blank"}本家のインストラクションや先人たちの知恵を借りて，  
+ほとんど触ったことなどない**ターミナル**を恐る恐る開いて，
+何も考えずに[**GitHub Pages**][gp]{:target="_blank"}をつくってみると，  
+当然のことながらユーザーのディレクトリの直下にフォルダができた．
 
-もともとこの**ブログ**は[**GitHub**][gh]{:target="_blank"}の公認エディタ的な位置づけの[**Atom**][am]{:target="_blank"}で書いていた．  
-普通に使っている分には[**Atom**][am]{:target="_blank"}と[**GitHub**][gh]{:target="_blank"}の**親和性**は高く，  
-[**Atom**][am]{:target="_blank"}でテキストを書いて，**stage**して**push**する・・・  
-そのことに何の**不満もない**はずだった．
+#### へぇ・・・こんなふうにできるわけか．
 
-#### ところが微妙な不満が・・・
+最初はそれで**関心していた**のだが，  
+<span style="color: #8d7edc;"><strong>別のマシン</span>からアクセスしようとしてハタと困ったことに気がついた．
 
-それは，リンク先をブラウザで新しいタブで開いてもらうために，  
-リンク先の記述の後に`{:target="_blank"}`を書いたときのことだった．  
-[**Atom**][am]{:target="_blank"}はご丁寧にこの`「 _ 」`を斜体の指定と判断して，  
-それ以降のテキストがすべて，<span style="color: #009900;">**色付きの斜体**</span>で表示されてしまう．
+<span style="color: #8d7edc;"><strong>最初のマシン</span>でつくった[**GitHub Pages**][gp]{:target="_blank"}のフォルダにアクセスるには・・・どうすりゃいいんだ？
 
-#### うっ，気持ち悪っ
+そもそも[**GitHub**][gh]{:target="_blank"}はクラウド上にデータがあって，  
+さまざまな人が**共有**しながら作業をするためのプラットフォームなのだから，  
+**どこで**つくっていようが問題なく**共有**できるわけなのだけれど，  
+そのためにターミナルを開いたり慣れないコマンドを打ち込んだりなんかしたくないし・・・
 
-そこでふと思い出して，  
-前に少し使ったことがある[**Visual Studio Code**][vs]{:target="_blank"}で開いてみると・・・  
-何の問題もなく意図の通りに表示されてる．  
-しかも，ターミナルの画面を<span style="color: #009900;">**同時に表示**</span>することもできる．  
+待てよ，そもそも最初にGitHub Pagesのフォルダをつくるときに，  
+[**Dropbox**][db]{:target="_blank"}につくってしまえば，どこからどのマシンでアクセスしようが，  
+一発で解決できちゃうんじゃないの？
 
-[**Atom**][am]{:target="_blank"}では追加のパッケージをインストールすることで**ターミナル**を表示できるようになるらしいけど，  
-元から表示できてくれれば**便利**なことこの上ない．  
+でもって[**Dropbox**][db]{:target="_blank"}の中に[**GitHub Pages**][gp]{:target="_blank"}用のフォルダをつくってみると・・・
 
-ということで，使いはじめて１ヵ月かそこらで，  
-[**Atom**][am]{:target="_blank"}から[**Visual Studio Code**][vs]{:target="_blank"}に浮気したと．  
+#### ご名答！
+
+あっさりほかのマシンでも，  
+問題なくブログをいじれるようになってくれたと，  
 そんなこと．
 
 <a href="https://www.amazon.co.jp/GitHub%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80%E2%94%80%E2%94%80Pull-Request%E3%81%AB%E3%82%88%E3%82%8B%E9%96%8B%E7%99%BA%E3%81%AE%E5%A4%89%E9%9D%A9-WEB-PRESS-plus-ebook/dp/B07JLJSDMJ/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=GitHub&qid=1577256598&sr=8-5&linkCode=li2&tag=palibera-22&linkId=4aec90359112a8a8ccb139c8ec9f87f5&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JLJSDMJ&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li2&o=9&a=B07JLJSDMJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-[am]: https://atom.io
+[db]: https://www.dropbox.com/
 [gh]: https://github.com
-[vs]: https://code.visualstudio.com
+[gp]: https://pages.github.com
