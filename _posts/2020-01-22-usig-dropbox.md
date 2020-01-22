@@ -20,9 +20,9 @@ comments: true
 #### へぇ・・・こんなふうにできるわけか．
 
 最初はそれで**関心していた**のだが，  
-<span style="color: #8d7edc;"><strong>別のマシン</span>からアクセスしようとしてハタと困ったことに気がついた．
+<span style="color: #8d7edc;"><strong>別のマシン</span></strong>からアクセスしようとしてハタと困ったことに気がついた．
 
-<span style="color: #8d7edc;"><strong>最初のマシン</span>でつくった[**GitHub Pages**][gp]{:target="_blank"}のフォルダにアクセスるには・・・どうすりゃいいんだ？
+<span style="color: #8d7edc;"><strong>最初のマシン</span></strong>でつくった[**GitHub Pages**][gp]{:target="_blank"}のフォルダにアクセスるには・・・どうすりゃいいんだ？
 
 そもそも[**GitHub**][gh]{:target="_blank"}はクラウド上にデータがあって，  
 さまざまな人が**共有**しながら作業をするためのプラットフォームなのだから，  
@@ -35,7 +35,7 @@ comments: true
 
 でもって[**Dropbox**][db]{:target="_blank"}の中に[**GitHub Pages**][gp]{:target="_blank"}用のフォルダをつくってみると・・・
 
-#### ご名答！
+#### （たまたま）ご名答！
 
 あっさりほかのマシンでも，  
 問題なくブログをいじれるようになってくれたと，  
