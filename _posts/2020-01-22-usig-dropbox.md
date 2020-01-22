@@ -19,7 +19,7 @@ comments: true
 
 #### へぇ・・・こんなふうにできるわけか．
 
-最初はそれで**関心していた**のだが，  
+最初はそれで**感動していた**のだが，  
 <span style="color: #8d7edc;"><strong>別のマシン</strong></span>からアクセスしようとしてハタと困ったことに気がついた．
 
 <span style="color: #8d7edc;"><strong>最初のマシン</strong></span>でつくった[**GitHub Pages**][gp]{:target="_blank"}のフォルダにアクセスするには・・・どうすりゃいいんだ？
