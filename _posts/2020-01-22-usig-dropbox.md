@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "僕はあっさり浮気をした"
+title:  "DropboxはGitHub Pagesにも便利だった"
 date:   2020-01-22 11:00:00 +0900
 excerpt: "GitHub PagesのためのフォルダをDropboxに置いたことで更新も楽ちんになった・・・"
 categories: [General]
