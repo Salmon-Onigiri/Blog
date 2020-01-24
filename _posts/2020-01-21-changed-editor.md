@@ -3,8 +3,8 @@ layout: post
 title:  "僕はあっさり浮気をした"
 date:   2020-01-21 11:00:00 +0900
 excerpt: "もともとこのブログはAtomで書いていたのだが，あっさりVisual Studio Codeに心移りをしてしまった・・・"
-categories: [GitHubPages]
-tag: [technical]
+categories: [Cyber]
+tag: [GitHubPages]
 comments: true
 ---
 ### AtomからVisual Studio Codeに心移りした時のメモ
