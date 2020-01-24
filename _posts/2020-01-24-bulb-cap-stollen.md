@@ -28,7 +28,7 @@ comments: true
 キラリと輝く<span style="color: #8d7edc;"><strong>アルミ製のバルブキャップ</strong></span>が付いていて，  
 しかも毎週，月曜日の朝には空気を入れてかなりきつめにバルブを締めるので，  
 自然に外れたとは思えない．  
-そしてふと<span style="color: #8d7edc;"><strong>思い出された</span></strong>のは，  
+そしてふと <span style="color: #8d7edc;"><strong>思い出された</span></strong>のは，  
 購入時の自転車屋さんの言葉．
 
 #### 小物とか，すぐに盗まれますよ
