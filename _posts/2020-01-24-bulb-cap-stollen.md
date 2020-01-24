@@ -20,26 +20,26 @@ comments: true
 ある日，用事があって訪問先のすぐ近くにあるラック式の駐輪場に駐めた時のこと．  
 小一時間が過ぎて駐輪場に戻り，  
 暗証番号式のロックを解除してラックから[**自転車**][riteway]{:target="_blank"}を降ろし，  
-ヘルメットをかぶり，グローブを着けて跨がろうとしてふと<span style="color: #8d7edc;"><strong>目線を落とす</strong></span>と・・・
+ヘルメットをかぶり，グローブを着けて跨がろうとしてふと<span style="color: #8d7edc;">**目線を落とす**</span>と・・・
 
 #### あれ？　バルブのキャップがない・・・
 
 小生が使っている[**自転車**][riteway]{:target="_blank"}はなぜか最初から，  
-キラリと輝く<span style="color: #8d7edc;"><strong>アルミ製のバルブキャップ</strong></span>が付いていて，  
+キラリと輝く<span style="color: #8d7edc;">**アルミ製のバルブキャップ**</span>が付いていて，  
 しかも毎週，月曜日の朝には空気を入れてかなりきつめにバルブを締めるので，  
 自然に外れたとは思えない．  
-そしてふと <span style="color: #8d7edc;"><strong>思い出された</span></strong>のは，  
+そしてふと<span style="color: #8d7edc;">**思い出された**</span>のは，  
 購入時の自転車屋さんの言葉．
 
 #### 小物とか，すぐに盗まれますよ
 
-「小物とか，<span style="color: #8d7edc;"><strong>すぐに盗まれます</span></strong>よ．  
+「小物とか，<span style="color: #8d7edc;">**すぐに盗まれます**</span>よ．  
 　ライトなんていちばん狙われますから．  
 　[**自転車**][riteway]{:target="_blank"}をどこかに駐めるときには，  
 　必ず外してくださいね」  
 「へぇ・・・そうなんですか」  
 「高級なバイクになると，  
-　 <span style="color: #8d7edc;"><strong>サドル</span></strong>や<span style="color: #8d7edc;"><strong>ペダル</span></strong>や，  
+　<span style="color: #8d7edc;">**サドル**</span>や<span style="color: #8d7edc;">**ペダル**</span>や，  
 　何でもやられますから」
 
 #### なるほどね・・・
@@ -47,7 +47,7 @@ comments: true
 一瞬，心にさざ波が立ったけれど，  
 バルブキャップが盗られたぐらいのことで，  
 貧しい心根の人間の行いに腹を立てるのもバカバカしい・・・  
-さっさと[Amazon][amz]{:target="_blank"}で代わりのキャップを購入して装着している．
+さっさと[**Amazon**][amz]{:target="_blank"}で代わりのキャップを購入して装着している．
 
 バルブキャップでさえ盗まれるんだから，  
 そりゃぁライトは間違いなく狙われるだろうし，  
