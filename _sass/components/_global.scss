@@ -14,10 +14,14 @@
 img {
   display: block;
   max-width: 100%;
-//  margin-left: auto;
-//  margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
-
+.link {
+  display: block;
+  max-width: 100%;
+  margin-left: 0;
+}
 // Tables
 table,
 th,

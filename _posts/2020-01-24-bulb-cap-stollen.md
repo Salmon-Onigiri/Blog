@@ -54,7 +54,7 @@ comments: true
 高級ブランドの自転車ともなれば・・・  
 そんなこと．
 
-<div align="left">
+<div class="link">
 <a href="https://www.amazon.co.jp/%E3%83%8E%E3%82%B0%E3%83%81-NOGUCHI-%E3%82%A2%E3%83%AB%E3%83%9F%E8%A3%BD%E3%83%90%E3%83%AB%E3%83%96%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-2%E5%80%8B%E5%85%A5%E3%82%8A-111573/dp/B014UGXK92/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=PNB146KRIHAX&dchild=1&keywords=%E3%83%90%E3%83%AB%E3%83%96%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97+%E8%87%AA%E8%BB%A2%E8%BB%8A&qid=1579843489&sprefix=%E3%83%90%E3%83%AB%E3%83%96%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97,aps,327&sr=8-5&linkCode=li2&tag=palibera-22&linkId=a7197b1b8233d1343f33ed5826977746&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014UGXK92&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li2&o=9&a=B014UGXK92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
