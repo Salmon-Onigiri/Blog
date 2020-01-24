@@ -16,7 +16,7 @@ comments: true
 ---
 ### 駐輪場に駐めたところ，バルブキャップがあっさり盗まれた
 
-普段は[**自転車**][riteway]{:target="_blank"}を<span style="color: #8d7edc;"><strong>公共の駐輪場</strong></span>に駐めることなど滅多にないのだが，  
+普段は[**自転車**][riteway]{:target="_blank"}を<span style="color: #8d7edc;">**公共の駐輪場**</span>に駐めることなど滅多にないのだが，  
 ある日，用事があって訪問先のすぐ近くにあるラック式の駐輪場に駐めた時のこと．  
 小一時間が過ぎて駐輪場に戻り，  
 暗証番号式のロックを解除してラックから[**自転車**][riteway]{:target="_blank"}を降ろし，  
