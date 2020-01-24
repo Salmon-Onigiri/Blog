@@ -26,7 +26,6 @@
     height: 100px;
     float: none;
     @include media-query($medium-screen) {
-      margin-left: auto;
       margin-right: 0;
     }
   }
