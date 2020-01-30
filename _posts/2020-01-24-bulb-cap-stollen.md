@@ -3,15 +3,16 @@ layout: post
 title:  "バルブキャップが盗まれた" #タイトルを入力
 date:   2020-01-24 11:00:00 +0900 #年月日を入力
 excerpt: "自転車で移動中だったある日，用事があって公共の駐輪場に駐めたところ，タイヤのバルブキャップが・・・" #home画面でタイトルの下に表示される短文を入力
-categories: [Gadget] #EverNoteの「GitHubPages」の「Category & Tag」を参照
+categories: Gadget #EverNoteの「GitHubPages」の「Category & Tag」を参照
 # [Cyber]　ホームページ，ブログ，その他，PC，ネット関係
 # [Gadget]　自転車，時計，スマホ，タブレットなど気の利いた小道具類　タグで分ける
 # [Gourmet]　レストラン，食材，料理，酒などをタグで分ける？
 # [Travel]　場所，目的，アトラクションなどをタグで分ける？
 # [Favorite]　趣味的なもの．テレビ，映画，本，音楽，美術などをタグで分ける？
-tag: [自転車] #EverNoteの「GitHubPages」の「Category & Tag」を参照
+tag: 
+- bycycle #EverNoteの「GitHubPages」の「Category & Tag」を参照
 # [GitHubPages]
-# [自転車]
+# [bycycle]
 comments: true
 ---
 ### 駐輪場に駐めたところ，バルブキャップがあっさり盗まれた
