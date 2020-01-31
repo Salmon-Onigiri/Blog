@@ -68,7 +68,7 @@ ExcelとかNumbersとかを開かなくてよくなるんで，
 また使うかもしれないけどね．  
 当面はそんなわけ．
 
-<a href="https://www.amazon.co.jp/ScanSnap-FI-IX1500-PFU-iX1500/dp/B07HHZJKS3/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=scansnap&qid=1580448057&sr=8-2&linkCode=li2&tag=palibera-22&linkId=e6d6fee7b0a60f66ca86cb5258b9d662&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HHZJKS3&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li2&o=9&a=B07HHZJKS3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/ScanSnap-FI-IX1500-PFU-iX1500/dp/B07HHZJKS3/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=scansnap&qid=1580448057&sr=8-2&linkCode=li2&tag=palibera-22&linkId=e6d6fee7b0a60f66ca86cb5258b9d662&language=ja_JP" target="_blank"><img class="link" border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HHZJKS3&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li2&o=9&a=B07HHZJKS3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [ul]: https://ulysses.app
 [en]: https://evernote.com/intl/jp
