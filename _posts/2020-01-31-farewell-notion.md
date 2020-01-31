@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ここにタイトルを入れる" #タイトルを入力
+title:  "Notionは良さげでダメだった" #タイトルを入力
 date:   2020-01-31 11:00:00 +0900 #年月日を入力
 excerpt: "Notionに出会ったときの衝撃は，なかなかのものだった．これでEvernoteもTrelloも・・・" #home画面でタイトルの下に表示される短文を入力
 categories: [Cyber] #EverNoteの「GitHubPages」の「Category & Tag」を参照
@@ -18,7 +18,6 @@ tag: [app]
 # [tablet]
 comments: true
 ---
-# Notionは良さげでダメだったということ
 これで，[**Evernote**][en]{:target="_blank"}と[**Trello**][tr]{:target="_blank"}は完全に離脱だし，  
 下手すりゃ書き物に重宝している[**Ulysses**][ul]{:target="_blank"}
 もサヨナラできるかも？
