@@ -45,11 +45,11 @@ FAX.PLUSにログインして「Send Fax」を開き，
 サムネイルをクリックすれば実際の様子を確認できる．
 
 便利な世の中になったもんだと思う一方で，
-#### ニッポンの金融機関のガラパゴスを改めて実感した次第．
+#### ニッポンの金融機関のガラパゴスを改めて実感した次第
 
 ***
 
-ファックスのイラストは[ac-illust.com][ac]{:target="_blank"}からMeeeさんの作品をお借りしています．
+ファックスのイラストは[ac-illust.com][ac]{:target="_blank"}からMeeeさんの作品をお借りしています．  
 イラストをクリックすると[Amazon][am]{:target="_blank"}に飛びます．
 
 <a href="https://amzn.to/39Jvjsz"><img class="link" src="https://salmon-onigiri.github.io/blog/img/fax.png"></a>
