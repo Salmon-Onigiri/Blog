@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  “ファックスってガラパゴスだろ？”
-date:   2020-02-03 11:00:00 +0900
-excerpt: “海外からの送金について，銀行から送金趣旨の説明が求められた．資料を送るためメールアドレスを聞くと，何とファックスで送れという・・・”
+title: "ファックスってガラパゴスだろ？"
+date: 2020-02-03 11:00:00 +0900
+excerpt: "海外からの送金について，銀行から送金趣旨の説明が求められた．資料を送るためメールアドレスを聞くと，何とファックスで送れという・・・"
 categories: [Cyber]
 tag: [app]
 comments: true
@@ -48,3 +48,5 @@ FAX.PLUSにログインして「Send Fax」を開き，
 #### ニッポンの金融機関のガラパゴスを改めて実感した次第．
 
 ![イラストはac-illust.comからMeeeさんの作品をお借りしています](https://salmon-onigiri.github.io/blog/img/fax.png)
+
+<a href="https://amzn.to/39Jvjsz"><img src="https://salmon-onigiri.github.io/blog/img/fax.png"></a>
