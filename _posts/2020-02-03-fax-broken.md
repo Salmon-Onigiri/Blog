@@ -24,9 +24,9 @@ comments: true
 
 ダメだ，こりゃ．  
 速攻，ネットで月額無料で都度料金でファックスを送れるサービスを調べ，  
-行き当たったのが「FAX.PLUS」
+行き当たったのが[FAX.PLUS][fp]{:target="_blank"}
 
-#### このFAX.PLUS
+#### この[FAX.PLUS][fp]{:target="_blank"}
 受信には金がかかるが送信なら基本無料．  
 ロハでファックスが送信できちゃう．
 
@@ -35,7 +35,7 @@ comments: true
 日本の送信先に送る時には，  
 国番号を添えて市外局番の最初のゼロを外して送らなきゃならないところ．
 
-FAX.PLUSにログインして「Send Fax」を開き，  
+[FAX.PLUS][fp]{:target="_blank"}にログインして「Send Fax」を開き，  
 必要なファイル（今回はワードとPDF）を「Add File」で加え，  
 宛先に番号を入れて「Send」を押すと，  
 アーカイブタブのなかで進行が表示されて，  
@@ -52,7 +52,8 @@ FAX.PLUSにログインして「Send Fax」を開き，
 ファックスのイラストは[ac-illust.com][ac]{:target="_blank"}からMeeeさんの作品をお借りしています．  
 イラストをクリックすると[Amazon][am]{:target="_blank"}に飛びます．
 
-<a href="https://amzn.to/39Jvjsz"><img class="link" src="https://salmon-onigiri.github.io/blog/img/fax.png"></a>
+<a href="https://amzn.to/39Jvjsz" target="_blank"><img class="link" src="https://salmon-onigiri.github.io/blog/img/fax.png"></a>
 
 [am]: https://amzn.to/39Jvjsz
 [ac]: https://www.ac-illust.com/
+[fp]: https://www.fax.plus/
