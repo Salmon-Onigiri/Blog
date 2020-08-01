@@ -98,16 +98,16 @@ CPを考えるとNGに近いけど，
 *****
 
 旅の準備には函館市の公式観光サイト，
-[はこぶら](https://www.hakobura.jp/){:target="_blank"}が便利です．
+[はこぶら](https://www.hakobura.jp/){:target="_blank"}が便利です．  
 テーマ別の資料をPDFで入手できます．
 
-もうひとつ，[Amazon](https://amzn.to/30jZF1H){:target="_blank"}で函館で検索をしてみるのもいいかも知れません．
-ガイドブックはもちろんですが，
-函館がかかわる映画や小説など，
-いろいろなものがヒットします．
-出発前に[Amazon](https://amzn.to/30jZF1H){:target="_blank"}覗いて，
+もうひとつ，[Amazon](https://amzn.to/30jZF1H){:target="_blank"}で函館で検索をしてみるのもいいかも知れません．  
+ガイドブックはもちろんですが，  
+函館がかかわる映画や小説など，  
+いろいろなものがヒットします．  
+出発前に[Amazon](https://amzn.to/30jZF1H){:target="_blank"}覗いて，  
 旅のお供を選んでみるのも一興です．
 
 写真をクリックすると[Amazon](https://amzn.to/30jZF1H){:target="_blank"}の検索結果にジャンプします．
 
-<a href="https://amzn.to/30jZF1H" target="_blank"><img class="link" src="https://salmon-onigiri.github.io/blog/img/hakodate.png"></a>
+<a href="https://amzn.to/30jZF1H" target="_blank"><img class="link" src="https://salmon-onigiri.github.io/blog/img/hakodate.png" alt="函館" width="30%"></a>
