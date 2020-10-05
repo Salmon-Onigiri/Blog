@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "北海道にフェリーで行くなら・・・電波に注意" #タイトルを入力
-date: 2020-mm-dd 11:00:00 +0900 #年月日を入力
+date: 2020-09-30 11:00:00 +0900 #年月日を入力
 excerpt: "北海道にフェリーで行くことがある．缶詰状態になる船上の時間を使うために・・・ちょっとした注意が必要だった・・・" #home画面でタイトルの下に表示される短文を入力
 categories: [Travel, Business] #EverNoteの「GitHubPages」の「Category & Tag」を参照
 # [Cyber] ホームページ，ブログ，その他，PC，ネット関係
