@@ -39,7 +39,7 @@ tag: [app, work] #EverNoteの「GitHubPages」の「Category & Tag」を参照
 # [miscs]
 comments: true
 ---
-###Toggl PlanはTrelloキラーである201001
+### Toggl PlanはTrelloキラーである
 ずっと前から，  
 １日の仕事の按分を記録しておくために，
 ##### Toggl（今はToggl Track）という，
