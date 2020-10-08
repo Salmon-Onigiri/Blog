@@ -100,4 +100,4 @@ ETCが当たり前の時代に，
 
 *****
 
-<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ez&f=ifr&linkID=850b58a06c65ee4a69681349a14046b9&t=palibera-22&tracking_id=palibera-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ez&f=ifr&linkID=850b58a06c65ee4a69681349a14046b9&t=palibera-22&tracking_id=palibera-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" target="_blank"></iframe>
