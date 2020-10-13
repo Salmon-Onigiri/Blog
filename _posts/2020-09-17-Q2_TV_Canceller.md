@@ -65,7 +65,7 @@ Audiの車としては最も低い車格だけれども，
 （ボンネットを上まで上げる必要はなく，リリースレバーを引くだけでいい）．  
 ちなみにQ2のリリースレバーはココ．
 
-![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_001.jpg){:class="link-sm"}
+![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_001.jpg){.link-sm}
 
 運転席の右足のスネのあたり．
 
@@ -82,7 +82,7 @@ TVキャンセラーを**ODPポート**に指示通りの向きに差し込む�
 ちなみに，Q2のODPポートは，  
 先ほどのボンネットのリリースレバーの奥．
 
-![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_002.jpg){:class="link-sm"}
+![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_002.jpg){.link-sm}
 
 差し込むと勝手に一瞬，  
 緑と赤のLEDが光って，  
