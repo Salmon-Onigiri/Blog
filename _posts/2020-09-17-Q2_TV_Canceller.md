@@ -48,14 +48,14 @@ Audiの車としては最も低い車格だけれども，
 スピードメーター，タコメーターと同時に表示できる．
 
 そうなると，特にヘビーにナビに依存する状況でもければ，  
-ダッシュボードにはめ込まれているディスプレイに表示する必要はない．  
+ダッシュボードにはめ込まれているディスプレイにナビを表示する必要はない．  
 となればなおさら，
 
 ##### TVキャンセラーだなと．
 
-さっそく[アマゾン](https://amzn.to/3nJH8p8){target="_blank"}で検索して，  
+さっそく[アマゾン](https://amzn.to/3nJH8p8){:target="_blank"}で検索して，  
 利用者数が多く自分と同じ車でも大丈夫だったという，  
-[KUFATECのTVキャンセラー](https://amzn.to/3lDgBIa){target="_blank"}（アウディ用の39960というやつ）を購入した．
+[KUFATECのTVキャンセラー](https://amzn.to/3lDgBIa){:target="_blank"}（アウディ用の39960というやつ）を購入した．
 
 翌日にはあっさりポストに投函されていて，  
 さっそく設定．
@@ -65,7 +65,7 @@ Audiの車としては最も低い車格だけれども，
 （ボンネットを上まで上げる必要はなく，リリースレバーを引くだけでいい）．  
 ちなみにQ2のリリースレバーはココ．
 
-![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_001.png)
+![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_001.jpg)
 
 運転席の右足のスネのあたり．
 
@@ -82,7 +82,7 @@ TVキャンセラーを**ODPポート**に指示通りの向きに差し込む�
 ちなみに，Q2のODPポートは，  
 先ほどのボンネットのリリースレバーの奥．
 
-![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_002.png)
+![Audi Q2 ボンネットのリリースレバー](https://salmon-onigiri.github.io/blog/img/200917_002.jpg)
 
 差し込むと勝手に一瞬，  
 緑と赤のLEDが光って，  
@@ -107,10 +107,10 @@ TVキャンセラーを**ODPポート**に指示通りの向きに差し込む�
 
 使用したのは，Q2（2020年式GA）をはじめ，  
 現行のいろんな型式のAudi車に適合する，  
-[KUFATEC社製のTVキャンセラー](https://amzn.to/3lDgBIa){target="_blank"}「39960」．  
+[KUFATEC社製のTVキャンセラー](https://amzn.to/3lDgBIa){:target="_blank"}「39960」．  
 手順通りに設定すれば問題なく使えるはず．
 
 ちなみに，TVキャンセラーは同じ製品で型番違いがいくつかある．  
 <span style="color: #f83e4b;">**適合する車種を必ず確認**</span>して購入を．
 
-<a href="https://www.amazon.co.jp/TV%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC-%E3%80%904%EF%BC%A7%E5%BE%8C%E6%9C%9F%E5%9E%8B%E3%80%91A7%E3%80%90-NAVIGATION-%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E6%90%AD%E8%BC%89%E8%BB%8A%E3%80%91SSKPRODUCT%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A7%A3%E8%AA%AC%E6%9B%B8%E4%BB%98%E3%81%8D-%E5%B7%A5%E5%85%B7%E4%B8%8D%E8%A6%81%EF%BC%95%E5%88%86%E3%81%A7%E5%AE%8C%E4%BA%86%E7%B0%A1%E5%8D%98%E8%A8%AD%E5%AE%9A/dp/B018VGONZ2/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3+TV%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC&qid=1602553742&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSkNVMVM4UURUUlJGJmVuY3J5cHRlZElkPUEwNTM3NzU5Mlg5TjZPUVBGTEpPMiZlbmNyeXB0ZWRBZElkPUExUTVaWkxCMUtFNDk1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&linkCode=li3&tag=palibera-22&linkId=5ad53a94093cb38792c372cc15de686a&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018VGONZ2&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li3&o=9&a=B018VGONZ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/TV%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC-%E3%80%904%EF%BC%A7%E5%BE%8C%E6%9C%9F%E5%9E%8B%E3%80%91A7%E3%80%90-NAVIGATION-%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E6%90%AD%E8%BC%89%E8%BB%8A%E3%80%91SSKPRODUCT%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A7%A3%E8%AA%AC%E6%9B%B8%E4%BB%98%E3%81%8D-%E5%B7%A5%E5%85%B7%E4%B8%8D%E8%A6%81%EF%BC%95%E5%88%86%E3%81%A7%E5%AE%8C%E4%BA%86%E7%B0%A1%E5%8D%98%E8%A8%AD%E5%AE%9A/dp/B018VGONZ2/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3+TV%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC&qid=1602553742&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSkNVMVM4UURUUlJGJmVuY3J5cHRlZElkPUEwNTM3NzU5Mlg5TjZPUVBGTEpPMiZlbmNyeXB0ZWRBZElkPUExUTVaWkxCMUtFNDk1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&linkCode=li3&tag=palibera-22&linkId=5ad53a94093cb38792c372cc15de686a&language=ja_JP" target="_blank"><img class="link" border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018VGONZ2&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=palibera-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=palibera-22&language=ja_JP&l=li3&o=9&a=B018VGONZ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
