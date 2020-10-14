@@ -60,7 +60,7 @@ NotionはNotionでちょっと（私にとっては致命的に）使いづら�
 ##### 使ってみないわけにはいくまい・・・
 
 古いEvernoteには自動でアップデートする機能さえ実装されてなかった（たぶん）ので，  
-[Evernoteのサイト](https://evernote.com/intl/jp/){: target="_blank"}に出向いて新しいアプリをダウンロードして，
+[Evernoteのサイト](https://evernote.com/intl/jp/){: target="_blank"}に出向いて新しいアプリをダウンロードして，  
 さっそく入れ替えてみた．
 
 問題なく起動して，  
@@ -89,7 +89,7 @@ NotionはNotionでちょっと（私にとっては致命的に）使いづら�
 主な機能が整理されてたりもする．
 
 今のところ[Ulysses](https://ulysses.app){: target="_blank"}を使い込んでいるので，  
-あえて[Evernote](https://evernote.com/intl/jp/){: target="_blank"}で長文を扱うことはないだろうけど，　　
+あえて[Evernote](https://evernote.com/intl/jp/){: target="_blank"}で長文を扱うことはないだろうけど，  
 ようやく普通にメモが書けるなと・・・
 
 ##### ありがたいことに，<br />これまでよりしっかり使えるアプリに復活したようだ．
