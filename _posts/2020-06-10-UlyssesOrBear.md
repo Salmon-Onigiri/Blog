@@ -79,7 +79,7 @@ WordPressに投稿できるとかいろいろあるんだけど，
 試用期間を超えて使い倒そうとすると**どちらも有料**・・・
 
 で，####と入力したmarkdownを<H4>と表示してくれたり，  
-全体的にデザインが洗練されていたり，  [Bear](https://bear.app){: target="_blank"}に魅力を感じるところが確かにある．  
+全体的にデザインが洗練されていたり，  [Bear](https://apps.apple.com/jp/app/bear/id1091189122?l=en&mt=12&itsct=apps_box&itscg=30200){: target="_blank"}に魅力を感じるところが確かにある．  
 ただ，せっかくファイラーから解放されているのがいいところなのに，  
 やはり，そしてかなり**残念なところ**が．
 
@@ -98,11 +98,11 @@ A-Zか更新日，その昇順か降順で並べ替えられてしまう．
 ##### 残念．
 
 思うがままにファイルを並べ替えられる，  
-[Ulysses](https://ulysses.app){: target="_blank"}の「ライブラリ」と「シート」は，  
+[Ulysses](https://apps.apple.com/jp/app/ulysses/id1225570693?l=en&mt=12&itsct=apps_box&itscg=30200){: target="_blank"}の「ライブラリ」と「シート」は，  
 圧倒的に使いやすいんだよね．
 
 ということで今は，  
-文章書きはもっぱら[Ulysses](https://ulysses.app){: target="_blank"}になってる．
+文章書きはもっぱら[Ulysses](https://apps.apple.com/jp/app/ulysses/id1225570693?l=en&mt=12&itsct=apps_box&itscg=30200){: target="_blank"}になってる．
 
 ----
 
