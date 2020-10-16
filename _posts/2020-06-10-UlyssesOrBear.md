@@ -79,7 +79,8 @@ WordPressに投稿できるとかいろいろあるんだけど，
 試用期間を超えて使い倒そうとすると**どちらも有料**・・・
 
 で，####と入力したmarkdownを<H4>と表示してくれたり，  
-全体的にデザインが洗練されていたり，  [Bear](https://apps.apple.com/jp/app/bear/id1091189122?l=en&mt=12&itsct=apps_box&itscg=30200){: target="_blank"}に魅力を感じるところが確かにある．  
+全体的にデザインが洗練されていたり，  
+[Bear](https://apps.apple.com/jp/app/bear/id1091189122?l=en&mt=12&itsct=apps_box&itscg=30200){: target="_blank"}に魅力を感じるところが確かにある．  
 ただ，せっかくファイラーから解放されているのがいいところなのに，  
 やはり，そしてかなり**残念なところ**が．
 
