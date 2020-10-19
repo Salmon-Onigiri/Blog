@@ -49,7 +49,7 @@ comments: true
 その時にはぜひ[立ち寄ってみたい店](https://yukidoke.co.jp/){: target="_blank"}ができた．
 
 ちなみに店の[ホームページ](https://yukidoke.co.jp/){: target="_blank"}を見ると，  
-お菓子の名前は**「へその<span style="color: #f83e4b;">おまんぢう</span>~」**だった．
+お菓子の名前は**「へその<span style="color: #f83e4b;">おまんぢう</span>」**だった．
 
 ##### 店の名は<span style="color: #8d7edc;">[「SHINYA」](https://yukidoke.co.jp/){: target="_blank"}</span>という．
 全国の物産展にも出展しているらしいので，  
