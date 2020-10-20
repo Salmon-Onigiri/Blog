@@ -69,7 +69,8 @@ SDカードへのダウンロードに失敗したか？
 SDカードを取り出して，  
 <span style="color: #8d7edc;">**すべては完了**</span>となっているわけです．
 
-ちなみに，欧州で発売されているマイナーチェンジ後の[次世代Q2](https://www.audi.de/de/brand/de/neuwagen/q2/q2.html){: target="_blank"}では，
+ちなみに，  
+欧州で発売されているマイナーチェンジ後の[次世代Q2](https://www.audi.de/de/brand/de/neuwagen/q2/q2.html){: target="_blank"}では，  
 もっと多くの[myAudi](https://my.audi.com/){: target="_blank"}の機能が実装されるみたいけども．
 
 *****
