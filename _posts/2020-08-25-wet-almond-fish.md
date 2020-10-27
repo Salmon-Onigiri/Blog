@@ -8,7 +8,7 @@ tag: [food] #EverNoteの「GitHubPages」の「Category & Tag」を参照
 comments: true
 ---
 
-**[アーモンドフィッシュ](https://amzn.to/3kwLVbB){: target="_blank"}**という菓子（つまみ？）がある．  
+[**アーモンドフィッシュ**](https://amzn.to/3kwLVbB){: target="_blank"}という菓子（つまみ？）がある．  
 破砕されたアーモンドに味付けした小魚を混ぜた，  
 <span style="color: #8d7edc;">**アレ**</span>である．  
 その[アーモンドフィッシュ](https://amzn.to/3kwLVbB){: target="_blank"}を，
