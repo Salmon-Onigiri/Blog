@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "しけったアーモンドフィッシュは料理に使え" #タイトルを入力
-date: 2020-mm-dd 11:00:00 +0900 #年月日を入力
+date: 2020-08-25 11:00:00 +0900 #年月日を入力
 excerpt: "間食の罪悪感を弱めるために，「アーモンドフィッシュ」を常備して，口寂しいときにポリポリと食べるのだが・・・時として湿気ってしまうことがあり・・・" #home画面でタイトルの下に表示される短文を入力
 categories: [Gourmet] #EverNoteの「GitHubPages」の「Category & Tag」を参照
 tag: [food] #EverNoteの「GitHubPages」の「Category & Tag」を参照
